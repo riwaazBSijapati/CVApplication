@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CVBuilderApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">empty</string>
+
+    //Fragments
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+
+    //Utilities
+    <string name="cv">Resume</string>
+    <string name="add">Add</string>
+
+    //Externals
+    <string name="whatsapp">Whats App</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+
+    //Photo
+    <string name="cover_photo">Background</string>
+
+    //MainPage
+    <string name="name">Riwaaz B. Sijapati</string>
+    <string name="position">Software Developer</string>
+    <string name="career_note">Career Note</string>
+    <string name="career_note_desc"><b>In Progress</b> On-campus studies and currently taking distance education courses to complete a Master\'s Degree in Computer Science (Available for full-time <b>W2</b> employment).</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc"><b>Language: </b>Java, Python, JavaScript, SQL, R \n<b>Frameworks: </b>SpringBoot, Hibernate, JDBC \n<b>Microservices: </b>AWS, Azure, Kafka \n<b>Databases: </b>Oracle, MySQL, MongoDB, PostgreSql \n<b>Tools: </b>Intellij IDE, Maven, GitHub, UML \n</string>
+    <string name="about_me_desc">Skilled Software Developer with hands on experience developing full stack applications using Java, Spring,
+                                    React, and Hibernate. Experienced in analyzing and designing applications to implement high performance
+                                    secure systems using Spring Security, Spring Data and Dependency Injection. Implemented several design
+                                    patterns in applications to communicate with different tiers consuming several services using Microservices,
+                                    Restful and SOAP services. Worked with several cross-functional teams having different business domains</string>
+
+    //Menus
+    <string name="education">Education</string>
+    <string name="my_college">My College</string>
+    <string name="certification">Certification</string>
+    <string name="my_contacts">My Contacts</string>
+
+    <string name="shared_information_on_user">
+        Name: Riwaaz B. Sijapati
+        LinkedIn Profile: https://www.linkedin.com/in/riwaaz-b-sijapati/
+    </string>
+
+    <string name="email">rsijapati@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/riwaaz-b-sijapati/</string>
+    <string name="github_profile">https://github.com/riwaazBSijapati</string>
+
+    <string name="login">login</string>
+    <string name="my_contact_number">(646)733-8265</string>
+    <string name="my_email_id">rsijapati@miu.edu</string>
+
+</resources>
