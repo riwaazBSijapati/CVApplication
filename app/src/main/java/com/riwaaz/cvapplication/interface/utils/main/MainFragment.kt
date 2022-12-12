@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui.main
+package com.riwaaz.cvapplication.`interface`.utils.main
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,7 +8,7 @@ import com.riwaaz.cvapplication.R
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
 
-class MainFragment : Fragment(R.layout.fragment_main) {
+class MainFragment : Fragment(R.layout.main) {
 
     private lateinit var viewPager: ViewPager2
     private lateinit var tabLayout: TabLayout

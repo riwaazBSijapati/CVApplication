@@ -1,13 +1,13 @@
-package com.riwaaz.cvapplication.ui.work
+package com.riwaaz.cvapplication.`interface`.utils.work
 
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.RecyclerView
 import com.riwaaz.cvapplication.R
-import com.riwaaz.cvapplication.data.Work
+import com.riwaaz.cvapplication.modelclasses.Work
 
-class WorkFragment : Fragment(R.layout.fragment_work) {
+class WorkFragment : Fragment(R.layout.work) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)

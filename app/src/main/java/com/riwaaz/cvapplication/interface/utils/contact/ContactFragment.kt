@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui.contact
+package com.riwaaz.cvapplication.`interface`.utils.contact
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -9,11 +9,11 @@ import android.view.View.OnClickListener
 import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.fragment.app.Fragment
-import com.riwaaz.cvapplication.ui.MyWebActivity
+import com.riwaaz.cvapplication.`interface`.MyWebActivity
 import com.riwaaz.cvapplication.R
 
 
-class ContactFragment : Fragment(R.layout.fragment_contact), OnClickListener {
+class ContactFragment : Fragment(R.layout.contact), OnClickListener {
 
     private lateinit var phoneLL: LinearLayout
     private lateinit var emailLL: LinearLayout

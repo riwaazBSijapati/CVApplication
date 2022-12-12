@@ -1,11 +1,11 @@
-package com.riwaaz.cvapplication.ui.main
+package com.riwaaz.cvapplication.`interface`.utils.main
 
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.riwaaz.cvapplication.ui.aboutMe.AboutMeFragment
-import com.riwaaz.cvapplication.ui.contact.ContactFragment
-import com.riwaaz.cvapplication.ui.home.HomeFragment
-import com.riwaaz.cvapplication.ui.work.WorkFragment
+import com.riwaaz.cvapplication.`interface`.utils.aboutMe.AboutMeFragment
+import com.riwaaz.cvapplication.`interface`.utils.contact.ContactFragment
+import com.riwaaz.cvapplication.`interface`.utils.home.HomeFragment
+import com.riwaaz.cvapplication.`interface`.utils.work.WorkFragment
 
 class ViewPagerAdapter(fragment: Fragment) : FragmentStateAdapter(fragment) {
 

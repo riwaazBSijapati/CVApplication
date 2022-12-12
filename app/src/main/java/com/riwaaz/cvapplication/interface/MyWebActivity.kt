@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui
+package com.riwaaz.cvapplication.`interface`
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

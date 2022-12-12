@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui.work
+package com.riwaaz.cvapplication.`interface`.utils.work
 
 import android.view.LayoutInflater
 import android.view.View
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.riwaaz.cvapplication.R
-import com.riwaaz.cvapplication.data.Work
+import com.riwaaz.cvapplication.modelclasses.Work
 
 class WorkAdapter(
     private val workList: MutableList<Work> = mutableListOf()

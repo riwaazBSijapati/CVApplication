@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui.aboutMe
+package com.riwaaz.cvapplication.`interface`.utils.aboutMe
 
 import android.view.LayoutInflater
 import android.view.View
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.riwaaz.cvapplication.R
-import com.riwaaz.cvapplication.data.Certification
+import com.riwaaz.cvapplication.modelclasses.Certification
 
 class CertificationAdapter(
     private val certificationList: MutableList<Certification> = mutableListOf()

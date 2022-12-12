@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui
+package com.riwaaz.cvapplication.`interface`
 
 import android.Manifest
 import android.content.DialogInterface

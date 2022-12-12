@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.data
+package com.riwaaz.cvapplication.modelclasses
 
 data class Education(
     val collegeName: String,

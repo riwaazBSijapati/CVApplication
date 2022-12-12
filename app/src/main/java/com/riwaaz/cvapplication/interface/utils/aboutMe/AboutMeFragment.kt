@@ -1,14 +1,14 @@
-package com.riwaaz.cvapplication.ui.aboutMe
+package com.riwaaz.cvapplication.`interface`.utils.aboutMe
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import com.riwaaz.cvapplication.R
-import com.riwaaz.cvapplication.data.Certification
-import com.riwaaz.cvapplication.data.Education
+import com.riwaaz.cvapplication.modelclasses.Certification
+import com.riwaaz.cvapplication.modelclasses.Education
 
-class AboutMeFragment : Fragment(R.layout.fragment_about_me) {
+class AboutMeFragment : Fragment(R.layout.about_me) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)

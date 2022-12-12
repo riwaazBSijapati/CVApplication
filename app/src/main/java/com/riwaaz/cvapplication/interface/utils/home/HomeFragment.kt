@@ -1,4 +1,4 @@
-package com.riwaaz.cvapplication.ui.home
+package com.riwaaz.cvapplication.`interface`.utils.home
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -11,7 +11,7 @@ import com.riwaaz.cvapplication.constants.Constant.USER_NAME
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
 
-class HomeFragment : Fragment(R.layout.fragment_home) {
+class HomeFragment : Fragment(R.layout.home) {
 
     private lateinit var userNameTextView: TextView
 

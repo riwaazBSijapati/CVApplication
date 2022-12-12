@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:backgroundTint="#9BA2A5"
         android:orientation="vertical"
-        tools:context=".ui.aboutMe.AboutMeFragment">
+        tools:context=".interface.utils.aboutMe.AboutMeFragment">
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
